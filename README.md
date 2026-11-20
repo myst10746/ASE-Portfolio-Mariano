@@ -1,8 +1,11 @@
 # ASE Portfolio - Mariano
 
 **Name:** Mariano, Kristian Angelo T.
+
 **Section:** COEP07
+
 **Course:** CPELX230, Elective 2: Applied Machine Learning and AI Engineering (Term 2, SY 2026-2027)
+
 **School:** National University, College of Engineering
 
 ## About this repository
